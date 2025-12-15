@@ -52,6 +52,8 @@
 <p align="center">
 <a href="https://linkedin.com/in/dilhara-kavindya" target="blank"><img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/LinkedIn.svg" alt="Dilhara LinkedIn" height="50" width="50" /></a>
 <a href="https://stackoverflow.com/users/your_id/dilhara-kavindya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="Dilhara StackOverflow" height="50" width="50" /></a>
+  <a href="https://www.facebook.com/share/17MHR3cZiB/" target="blank"><img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Facebook.svg" alt="Facebook" height="50" width="50" /></a>
+
 </p>
 
 ---
