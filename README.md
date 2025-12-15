@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">Hi 👋, I'm Dilhara Kavindya</h1>
-<h3 align="center">Passionate IT Student | Exploring the Boundless World of Technology</h3>
+<h3 align="center"> IT Student | Learning every day</h3>
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=kavindyasenarathna&label=Profile%20views&color=0e75b6&style=flat" alt="kavindyasenarathna" />
 </p>
@@ -11,11 +11,13 @@
 <table align="center">
   <tr>
     <td width="50%" align="left">
-      - 🌱 I’m currently learning **MERN Stack**  
-      - 🧑‍🎓 I’m an Undergraduate at **SLIIT**  
-      - 💬 Ask me about **Java & C Programming**  
-      - 📫 How to reach me **dilkara.kavindya@gmail.com**  
-      - ⚡ Fun fact **Call me DK**  
+     <ul>
+        <li>🌱 I’m currently learning <b>Java</b></li>
+        <li>🧑‍🎓 I’m an Undergraduate at <b>Uva Wellassa University</b></li>
+        <li>💬 Ask me about <b>Java & C Programming</b></li>
+        <li>📫 How to reach me <b>dkavindy17a@gmail.com</b></li>
+        <li>⚡ Fun fact <b>Call me DK</b></li>
+      </ul>
     </td>
     <td width="50%" align="center">
       <img align="center" alt="Coding" width="450" src="https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e">
